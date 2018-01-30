@@ -1,0 +1,36 @@
+ .jumbotron{
+  background-image: url('./img/dekutree.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 600px;
+  color: white;
+}
+
+h1 {
+  padding-top: 450px;
+  color: white;
+
+}
+.navbar-fixed-left {
+  width: 140px;
+  position: fixed;
+  border-radius: 0;
+  height: 100%;
+  margin-top: -30px;
+}
+
+.navbar-fixed-left .navbar-nav > li {
+  float: none;
+  width: 139px;
+}
+
+.navbar-fixed-left + .container {
+  padding-left: 160px;
+}
+
+
+.navbar-fixed-left .navbar-nav > li > .dropdown-menu {
+  margin-top: -50px;
+  margin-left: 140px;
+} */
